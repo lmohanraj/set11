@@ -8,4 +8,4 @@
  	c=c+n-1;
  	printf("\noutput=%c",c);
  	return 0;
- }
+}
